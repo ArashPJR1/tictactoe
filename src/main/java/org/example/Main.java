@@ -1,5 +1,7 @@
 package org.example;
 
+// TODO: Beispieländerung für PR-Test
+
 import java.util.Scanner;
 
 public class Main {
